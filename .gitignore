@@ -1,0 +1,34 @@
+Backend/Api/bin/
+Backend/Api/obj/
+Backend/Api/Migrations
+Backend/.vscode/
+Backend/Core/bin/
+Backend/Core/obj/
+Backend/Infrastructure/bin/
+Backend/Infrastructure/obj/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+launch.json
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
